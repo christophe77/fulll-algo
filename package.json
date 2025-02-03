@@ -2,7 +2,7 @@
 	"name": "algo",
 	"version": "1.0.0",
 	"main": "dist/index.js",
-	"repository": "https://github.com/christophe77/fulll-test/Algo",
+	"repository": "https://github.com/christophe77/fulll-algo",
 	"author": "christophe77 <chrisb@gmx.fr>",
 	"license": "MIT",
 	"devDependencies": {
